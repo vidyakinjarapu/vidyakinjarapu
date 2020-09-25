@@ -23,7 +23,6 @@ This is my first cirtification.
 i got this badge for completion of Learn Enough command line to be dangerous.
 
 Today i have finished learning about text editors like  - VIM, SUBLIME, ATOM, VSCODE
-
-<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
 
 sooo  happy to share
