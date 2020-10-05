@@ -31,6 +31,9 @@ Today i have finished learning about text editors like  - VIM, SUBLIME, ATOM, VS
 
 I finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
 
+[*Here is the cirtificate*](https://www.learnenough.com/certificates/ea7c747f)
+**HAPPY TO SHARE**
+
 
 
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
