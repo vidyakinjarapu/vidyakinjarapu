@@ -20,9 +20,9 @@ This is my first cirtification.
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
 
 
-i got this badge for completion of Learn Enough command line to be dangerous.
+I got this badge for completion of Learn Enough command line to be dangerous.
 
-Today i have finished learning about text editors like  - VIM, SUBLIME, ATOM, VSCODE
+Today I have finished learning about text editors like  - VIM, SUBLIME, ATOM, VSCODE
 
 
 
