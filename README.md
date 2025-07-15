@@ -43,4 +43,4 @@ Finished trio of **Web Development courses**
 
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
 
-
+Excited to share that I've recently added **.NET and .NET Core** to my development toolkit! Looking forward to building scalable and efficient applications with C# and ASP.NET Core. 💻🚀
