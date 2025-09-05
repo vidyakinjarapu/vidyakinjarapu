@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-###This is Vidya Kinjarapu
+### This is Vidya Kinjarapu
 
 <!--
 **vidyakinjarapu/vidyakinjarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
