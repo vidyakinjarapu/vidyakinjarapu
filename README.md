@@ -22,11 +22,13 @@ and business intelligence visualizations · Power BI · Excel · DAX
  
 **[Fullstack .NET Application](https://github.com/vidyakinjarapu/FullstackDotnetProject)**
 Full stack application built with Angular and ASP.NET Core · C#
+
 ---
 
 ## Certifications
 - Excel: Mother of Business Intelligence — *Codebasics*
 - Command Line, Text Editor, Git, HTML, CSS & Layout, JavaScript — *Learn Enough*
+  
 Finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
 [*Here is the cirtificate*](https://www.learnenough.com/certificates/ea7c747f)
 
