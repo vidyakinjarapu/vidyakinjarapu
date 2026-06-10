@@ -1,21 +1,18 @@
 ### Hi there! 👋 
-### This is Vidya Kinjarapu
+### I'm Vidya Kinjarapu
 
-<!--
-**vidyakinjarapu/vidyakinjarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Engineer | Career Returner | Women in Tech
 
-Here are some ideas to get you started:
+💡 Passionate about building data pipelines, transforming raw data
+   into insights, and learning every single day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-This is my first cirtification.
+## 🛠️ Skills
+- **Languages:** Python (Intermediate), SQL Server (Intermediate)
+- **Web Development** HTML5, CSS3, JavaScript
+- **Frameworks:** FastAPI
+- **Data Tools:** Power BI, Excel, Power Query, DAX
+- **Concepts:** ETL, Data Modeling, Data Pipelines, REST APIs
+- **Currently Learning:** Data Engineering via Udemy course
 
 
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
