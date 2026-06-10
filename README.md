@@ -14,25 +14,19 @@
 - **Concepts:** ETL, Data Modeling, Data Pipelines, REST APIs
 - **Currently Learning:** Data Engineering via Udemy course
 
-
-<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
-
-
-I got this badge for completion of Learn Enough command line to be dangerous.
-
-Today I have finished learning about text editors like  - VIM, SUBLIME, ATOM, VSCODE
-
-
-
-<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
+## Projects
+ 
+**[Power BI Dashboard — Sales / KPI Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+Live interactive dashboard built in Power BI — featuring data modeling, DAX measures,
+and business intelligence visualizations · Power BI · Excel · DAX
+ 
+**[Fullstack .NET Application](https://github.com/vidyakinjarapu/FullstackDotnetProject)**
+Full stack application built with Angular and ASP.NET Core · C#
 
 
-I finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
 
+Finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
 [*Here is the cirtificate*](https://www.learnenough.com/certificates/ea7c747f)
-**HAPPY TO SHARE**
-
-
 
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
 
@@ -40,9 +34,3 @@ I finished trio of **developer fundamental course** from [*Learn Enough to be Da
 Finished trio of **Web Development courses**
 
 <a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
-
----
-Excited to share that I've recently added **.NET and .NET Core** to my development toolkit! Looking forward to building scalable and efficient applications with C# and ASP.NET Core. 💻🚀
----
-Learnt dashboarding using **POWER BI** 
-
