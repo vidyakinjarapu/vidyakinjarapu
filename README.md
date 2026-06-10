@@ -27,6 +27,7 @@ Full stack application built with Angular and ASP.NET Core · C#
 
 ## Certifications
 - Excel: Mother of Business Intelligence — *Codebasics*
+- PowerBI: For all levels 2.0 - *Codebasics* 
 - Command Line, Text Editor, Git, HTML, CSS & Layout, JavaScript — *Learn Enough*
   
 Finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
