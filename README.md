@@ -1,6 +1,6 @@
 # Hi, I'm Vidya Kinjarapu 👋
 
-**Aspiring Data Analyst & Data Engineer** · New Jersey, USA
+**Aspiring Data Engineer & Data Analyst** · Plainsboro, New Jersey, USA
 
 [LinkedIn](https://www.linkedin.com/in/vidya-kinjarapu-10863aab/) · [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -15,17 +15,31 @@ structured training at the Code the Dream Data Engineering Bootcamp.
 
 ## 🛠️ Skills
 
-**Data & Analysis**
-Python · SQL Server · Power BI · Excel · Power Query · DAX · FastAPI
+**Data Engineering & Cloud**
+Azure Data Factory (ADF) · Azure Data Lake Storage Gen2 (ADLS Gen2) · Azure Databricks
+Apache Spark · Delta Lake · ETL Pipelines · Data Ingestion · Data Transformation
+RBAC (Role-Based Access Control) · Azure IAM · Managed Identities · Key Vault
+Medallion Architecture (Bronze / Silver / Gold) · Parquet · Delta Format
+
+**Python**
+Python (Intermediate) · FastAPI · REST API Development · Data Manipulation
+Pandas · NumPy · JSON Parsing · CLI Tools · Automation & Scripting
+
+**SQL & Databases**
+SQL Server (Intermediate) · T-SQL · Complex Joins · Aggregations · Subqueries
+Window Functions · Stored Procedures · Query Optimization · Relational Database Design
+
+**Data Analysis & BI**
+Power BI · DAX (Data Analysis Expressions) · Power Query (M Language)
+Excel (Advanced) · Data Modeling · Star Schema Design · KPI Development
+Time Intelligence · Pivot Tables · ETL in Excel · Data Storytelling
+Interactive Dashboard Development · Conditional Formatting · Drill-through & Cross-filtering
 
 **Web & Backend**
 JavaScript · HTML · CSS · C# · .NET Core · Angular
 
-**Concepts**
-ETL · Data Modeling · Data Pipelines · REST APIs · Star Schema · Time Intelligence
-
-**Tools**
-Git · GitHub · VS Code · Command Line
+**Tools & DevOps**
+Git · GitHub · VS Code · Azure Portal · Command Line
 
 ---
 
@@ -37,7 +51,7 @@ insights across Finance, Sales, Marketing, Supply Chain, and Executive dimension
 AtliQ Technologies. Features a full P&L statement, Forecast Accuracy tracking, Customer
 & Product Performance Matrix, and a consolidated Executive View.
 
-**Tech:** Power BI · DAX · Power Query · Excel
+**Tech:** Power BI · DAX · Power Query · MS Excel
 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
@@ -62,11 +76,11 @@ Code the Dream Data Engineering Bootcamp.
 
 ## 🌱 Currently Learning
 
-Data Engineering — ETL pipelines · data modeling · cloud data infrastructure · Apache Spark · dbt
+Data Engineering — ETL pipelines · Azure Databricks · ADF pipelines · ADLS Gen2
+Apache Spark · dbt · Medallion Architecture
 via **Code the Dream Data Engineering Bootcamp**
 
 ---
 
 *"A career gap is not the end of a story — it is just the pause before the best chapter."*
-
 
