@@ -1,45 +1,72 @@
-## Hi there! Welcome to my GITHUB! 👋 
-### I'm Vidya Kinjarapu
+# Hi, I'm Vidya Kinjarapu 👋
 
-🎯 Aspiring Data Engineer | Career Returner | Women in Tech
+**Aspiring Data Analyst & Data Engineer** · New Jersey, USA
 
-💡 Passionate about building data pipelines, transforming raw data
-   into insights, and learning every single day.
-
-## 🛠️ Skills
-- **Languages:** Python (Intermediate), SQL Server (Intermediate)
-- **Web Development** HTML5, CSS3, JavaScript
-- **Frameworks:** FastAPI
-- **Data Tools:** Power BI, Excel, Power Query, DAX
-- **Concepts:** ETL, Data Modeling, Data Pipelines, REST APIs
-- **Currently Learning:** Data Engineering via Udemy course
-
-## Projects
- 
-**[Power BI Dashboard — Sales / KPI Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
-Live interactive dashboard built in Power BI — featuring data modeling, DAX measures,
-and business intelligence visualizations · Power BI · Excel · DAX
- 
-**[Fullstack .NET Application](https://github.com/vidyakinjarapu/FullstackDotnetProject)**
-Full stack application built with Angular and ASP.NET Core · C#
+[LinkedIn](https://www.linkedin.com/in/vidya-kinjarapu-10863aab/) · [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-## Certifications
+I am an aspiring Data Analyst and Data Engineer with a passion for turning raw data
+into meaningful insights. With hands-on skills in Python, SQL Server, Power BI, and
+FastAPI, I am actively building real-world projects and deepening my expertise through
+structured training at the Code the Dream Data Engineering Bootcamp.
+
+---
+
+## 🛠️ Skills
+
+**Data & Analysis**
+Python · SQL Server · Power BI · Excel · Power Query · DAX · FastAPI
+
+**Web & Backend**
+JavaScript · HTML · CSS · C# · .NET Core · Angular
+
+**Concepts**
+ETL · Data Modeling · Data Pipelines · REST APIs · Star Schema · Time Intelligence
+
+**Tools**
+Git · GitHub · VS Code · Command Line
+
+---
+
+## 📂 Projects
+
+### [Business Insights 360](https://github.com/vidyakinjarapu/Business-Insights-360) — Power BI
+An enterprise-grade, multi-view Business Intelligence dashboard delivering 360-degree
+insights across Finance, Sales, Marketing, Supply Chain, and Executive dimensions for
+AtliQ Technologies. Features a full P&L statement, Forecast Accuracy tracking, Customer
+& Product Performance Matrix, and a consolidated Executive View.
+
+**Tech:** Power BI · DAX · Power Query · Excel
+🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWZkNTI3M2EtYmIzYi00OTZiLWIwNWYtNzUwMjMzNGZlODE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
+### [CTD Open Library Search Project](https://github.com/vidyakinjarapu/CTD_OpenLibrarySearchProject) — Python
+A Python CLI tool that fetches real-time data from the Open Library API and enables
+users to search and query books by author name or book title. Built as part of the
+Code the Dream Data Engineering Bootcamp.
+
+**Tech:** Python · REST API · CLI · JSON
+
+---
+
+## 📜 Certifications
+
 - Excel: Mother of Business Intelligence — *Codebasics*
-- PowerBI: For all levels 2.0 - *Codebasics* 
+- Power BI: For All Levels 2.0 — *Codebasics*
 - Command Line, Text Editor, Git, HTML, CSS & Layout, JavaScript — *Learn Enough*
-  
-Finished trio of **developer fundamental course** from [*Learn Enough to be Dangerous*](https://www.learnenough.com).
-[*Here is the cirtificate*](https://www.learnenough.com/certificates/ea7c747f)
+  → [View Certificate](https://www.learnenough.com/certificates/ea7c747f)
 
-<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a>
+---
 
-Finished trio of **Web Development courses**
+## 🌱 Currently Learning
 
-<a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a><a href="https://www.learnenough.com/certificates/ea7c747f"><img src="https://www.learnenough.com/certificates/ea7c747f/javascript-tutorial.svg" alt="Certificate of Completion for Learn Enough JavaScript"></a>
-
-
-## Currently Learning
- 
 Data Engineering — ETL pipelines · data modeling · cloud data infrastructure · Apache Spark · dbt
+via **Code the Dream Data Engineering Bootcamp**
+
+---
+
+*"A career gap is not the end of a story — it is just the pause before the best chapter."*
+
+
